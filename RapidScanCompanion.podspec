@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'RapidScanCompanion'
-  spec.version      = '1.0.0' # Version of your framework
+  spec.version      = '1.0.1' # Version of your framework
   spec.summary      = 'A brief summary of RapidScanCompanion framework.'
   spec.description  = <<-DESC
                        POD for RapidScanCompanion framework.
