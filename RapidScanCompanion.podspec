@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => 'MIT', :file => 'LICENSE.md' } # Ensure this file exists in your repo
   spec.author       = { 'Jason McBride' => 'jason@trakrsuite.com' }
   spec.platform     = :ios, '13.0' # Minimum iOS deployment target
-  spec.source       = { :http => 'https://trakrsuite.s3.ca-central-1.amazonaws.com/pods/RapidScanCompanion.xcframework.zip' }
+  spec.source       = { :http => 'https://trakrsuite.s3.ca-central-1.amazonaws.com/pods/rapidscancompanion/RapidScanCompanion.xcframework.zip' }
   spec.vendored_frameworks = 'RapidScanCompanion.xcframework'
   spec.requires_arc = true
 end
